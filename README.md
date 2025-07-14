@@ -34,4 +34,4 @@ Nesta atividade, foram aplicados conceitos de Visão Computacional e Deep Learni
 🔗 [Notebook Colab](https://colab.research.google.com/drive/1_l9AxRfBktpgZwDJeVUZTCocWGay3cAW?usp=sharing)
 
 **PDF com o código exportado do Colab:**  
-📄 [rede_convulacional_grao_de_arroz.pdf](https://github.com/Thalis78/rede-convolucional-graos-arroz/blob/fb3dcf19e1d0a8555ea8ddccac8afa84df94f159/rede_convulacional_grao_de_arroz.pdf)
+📄 [rede_convulacional_grao_de_arroz.pdf](https://github.com/Thalis78/rede-convolucional-graos-arroz/blob/b5fa9c5895e6df82ba4e3fc1e1412dfb73a6e214/rede_convulacional_graos_de_arroz.pdf)
